@@ -1,4 +1,4 @@
-### route-finding
+### Route Planning for Multiple Robots
 
 This project is for MSBD Independent Project: Route Planning for Multiple Robots.
 
