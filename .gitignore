@@ -9,3 +9,13 @@ Demo/epi_200/.DS_Store
 /RL Practice/MC/.ipynb_checkpoints
 /RL Practice/DP/.ipynb_checkpoints
 /RL Practice/lib/__pycache__
+/gym/vector/__pycache__
+/gym/vector/utils/__pycache__
+/gym/wrappers/__pycache__
+/gym/wrappers/monitoring/__pycache__
+/gym/utils/__pycache__
+/gym/envs/toy_text/__pycache__
+/gym/envs/mujoco/__pycache__
+/gym/envs/classic_control/__pycache__
+/gym/envs/box2d/__pycache__
+/gym/spaces/__pycache__
